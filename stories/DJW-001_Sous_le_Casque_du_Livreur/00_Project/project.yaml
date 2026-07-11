@@ -1,0 +1,35 @@
+project_id: DJW-001
+title: Sous le Casque du Livreur
+studio: DJOLLYWOOD
+status: production
+story_locked: true
+language: French
+accent: natural West African French
+country: Senegal
+city: Dakar
+format:
+  parts: 2
+  target_runtime_minutes_per_part: 30
+  target_scene_duration_seconds: 180
+production_engine: Flova
+repository_mode: automation_first
+approval_mode: standing_director_approval
+current_stage: screenplay_and_scene_packages
+current_scene: P1_S001
+completed_scenes: []
+locked_assets:
+  character_bible: true
+  location_bible: true
+  wardrobe_bible: true
+  scene_breakdown: true
+  camera_bible: true
+  lighting_bible: true
+  sound_bible: true
+  narration_bible: true
+  dialogue_bible: true
+  image_prompt_bible: true
+  flova_bible: true
+  music_bible: true
+  thumbnail_bible: true
+  youtube_bible: true
+  qc_bible: true
